@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.52966856.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.9bdf5801.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.9bdf5801.chunk.js.map",
-    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.f42e8f01.js",
-    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.f42e8f01.js.map",
-    "static/js/2.6b4056ac.chunk.js": "/react-gh-pages/static/js/2.6b4056ac.chunk.js",
-    "static/js/2.6b4056ac.chunk.js.map": "/react-gh-pages/static/js/2.6b4056ac.chunk.js.map",
-    "static/js/3.cea1fcbc.chunk.js": "/react-gh-pages/static/js/3.cea1fcbc.chunk.js",
-    "static/js/3.cea1fcbc.chunk.js.map": "/react-gh-pages/static/js/3.cea1fcbc.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.7fb813eeacce058e17b90da45b744008.js": "/react-gh-pages/precache-manifest.7fb813eeacce058e17b90da45b744008.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.52966856.chunk.css.map": "/react-gh-pages/static/css/main.52966856.chunk.css.map"
+    "main.css": "/nobs_vocab_builder/static/css/main.52966856.chunk.css",
+    "main.js": "/nobs_vocab_builder/static/js/main.9bdf5801.chunk.js",
+    "main.js.map": "/nobs_vocab_builder/static/js/main.9bdf5801.chunk.js.map",
+    "runtime~main.js": "/nobs_vocab_builder/static/js/runtime~main.e17c8110.js",
+    "runtime~main.js.map": "/nobs_vocab_builder/static/js/runtime~main.e17c8110.js.map",
+    "static/js/2.6b4056ac.chunk.js": "/nobs_vocab_builder/static/js/2.6b4056ac.chunk.js",
+    "static/js/2.6b4056ac.chunk.js.map": "/nobs_vocab_builder/static/js/2.6b4056ac.chunk.js.map",
+    "static/js/3.cea1fcbc.chunk.js": "/nobs_vocab_builder/static/js/3.cea1fcbc.chunk.js",
+    "static/js/3.cea1fcbc.chunk.js.map": "/nobs_vocab_builder/static/js/3.cea1fcbc.chunk.js.map",
+    "index.html": "/nobs_vocab_builder/index.html",
+    "precache-manifest.b63692c5907b4949461780f375b43fab.js": "/nobs_vocab_builder/precache-manifest.b63692c5907b4949461780f375b43fab.js",
+    "service-worker.js": "/nobs_vocab_builder/service-worker.js",
+    "static/css/main.52966856.chunk.css.map": "/nobs_vocab_builder/static/css/main.52966856.chunk.css.map"
   }
 }
