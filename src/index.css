@@ -7,16 +7,16 @@
 }
 
 .dropdown {
-  width: 45vw;
-  max-width: 400px;
+  width: 45vw; /* Relative to viewport width */
+  max-width: 200px; /* Half of the max flashcard width */
   height: 50px;
 }
 
 .flashcard {
-  width: 90vw;
-  height: 90vw;
-  max-width: 400px;
-  max-height: 400px;
+  width: 90vw; /* Relative to viewport width */
+  height: 90vw; /* Maintain square aspect ratio */
+  max-width: 400px; /* Max size */
+  max-height: 400px; /* Max size */
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -27,8 +27,8 @@
 .button-container {
   display: flex;
   justify-content: space-between;
-  width: 90vw;
-  max-width: 400px;
+  width: 90vw; /* Relative to viewport width */
+  max-width: 400px; /* Match flashcard max width */
   margin: 20px auto;
   gap: 10px;
 }
@@ -40,12 +40,16 @@
 
 @media (min-width: 600px) {
   .flashcard {
-      width: 400px;
-      height: 400px;
+      width: 400px; /* Fixed size for larger screens */
+      height: 400px; /* Fixed size for larger screens */
+  }
+
+  .dropdown {
+      width: 200px; /* Half of the flashcard width */
   }
 
   .button-container {
-      width: 400px;
+      width: 400px; /* Match flashcard width */
   }
 }
 
