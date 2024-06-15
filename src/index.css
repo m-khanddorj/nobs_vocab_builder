@@ -1,0 +1,54 @@
+/* src/App.css */
+.dropdown-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.dropdown {
+  width: 45vw;
+  max-width: 400px;
+  height: 50px;
+}
+
+.flashcard {
+  width: 90vw;
+  height: 90vw;
+  max-width: 400px;
+  max-height: 400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  width: 90vw;
+  max-width: 400px;
+  margin: 20px auto;
+  gap: 10px;
+}
+
+.nav-button {
+  width: 30%;
+  height: 50px;
+}
+
+@media (min-width: 600px) {
+  .flashcard {
+      width: 400px;
+      height: 400px;
+  }
+
+  .button-container {
+      width: 400px;
+  }
+}
+
+.flashcard-content {
+  font-size: 2rem; /* Increase the font size */
+}
