@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "118eb5f4bdc55f6d114e581592458c2f",
+    "revision": "3cdef9e8c78c17270d2576574fce7ee1",
     "url": "/nobs_vocab_builder/index.html"
   },
   {
-    "revision": "b3448a097eeac2a82f78",
-    "url": "/nobs_vocab_builder/static/css/main.52966856.chunk.css"
+    "revision": "c36c7c31c0e702fa3bc6",
+    "url": "/nobs_vocab_builder/static/css/main.d34155d2.chunk.css"
   },
   {
     "revision": "5cc4a54f9d3042c43368",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nobs_vocab_builder/static/js/3.cea1fcbc.chunk.js"
   },
   {
-    "revision": "b3448a097eeac2a82f78",
+    "revision": "c36c7c31c0e702fa3bc6",
     "url": "/nobs_vocab_builder/static/js/main.9bdf5801.chunk.js"
   },
   {

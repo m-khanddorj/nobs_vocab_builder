@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nobs_vocab_builder/precache-manifest.b63692c5907b4949461780f375b43fab.js"
+  "/nobs_vocab_builder/precache-manifest.75487145ce08733ae4f25e2a795f5ca0.js"
 );
 
 self.addEventListener('message', (event) => {

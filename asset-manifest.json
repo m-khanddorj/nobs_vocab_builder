@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nobs_vocab_builder/static/css/main.52966856.chunk.css",
+    "main.css": "/nobs_vocab_builder/static/css/main.d34155d2.chunk.css",
     "main.js": "/nobs_vocab_builder/static/js/main.9bdf5801.chunk.js",
     "main.js.map": "/nobs_vocab_builder/static/js/main.9bdf5801.chunk.js.map",
     "runtime~main.js": "/nobs_vocab_builder/static/js/runtime~main.e17c8110.js",
@@ -10,8 +10,8 @@
     "static/js/3.cea1fcbc.chunk.js": "/nobs_vocab_builder/static/js/3.cea1fcbc.chunk.js",
     "static/js/3.cea1fcbc.chunk.js.map": "/nobs_vocab_builder/static/js/3.cea1fcbc.chunk.js.map",
     "index.html": "/nobs_vocab_builder/index.html",
-    "precache-manifest.b63692c5907b4949461780f375b43fab.js": "/nobs_vocab_builder/precache-manifest.b63692c5907b4949461780f375b43fab.js",
+    "precache-manifest.75487145ce08733ae4f25e2a795f5ca0.js": "/nobs_vocab_builder/precache-manifest.75487145ce08733ae4f25e2a795f5ca0.js",
     "service-worker.js": "/nobs_vocab_builder/service-worker.js",
-    "static/css/main.52966856.chunk.css.map": "/nobs_vocab_builder/static/css/main.52966856.chunk.css.map"
+    "static/css/main.d34155d2.chunk.css.map": "/nobs_vocab_builder/static/css/main.d34155d2.chunk.css.map"
   }
 }
